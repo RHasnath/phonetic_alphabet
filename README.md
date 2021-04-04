@@ -2,5 +2,5 @@
 #Python script
 #Version 1.0
 
-A tiny script that converts a given string to phonetic alphabets. Options are available for English and Spanish languages.
+It is tiny Python script that converts a given string to phonetic alphabets. User has the option to select between English and Spanish.
 Standalone .exe file can be used for easy execution.
